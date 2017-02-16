@@ -15,8 +15,13 @@ plot(cars)
 
 
 Create empty github repo
+
 clone to machine
+
 create project
+
 enable packrat
+
 install caret
+
 commit changes
